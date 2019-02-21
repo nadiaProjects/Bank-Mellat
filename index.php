@@ -1,8 +1,8 @@
 <?php
 
-$storeName  = 'فروشگاه نادیا';
-$storeURL   = 'NadiaMarket.net';
-$callback   = 'https://t.me/NadiaProjects';
+$storeName  = 'فروشگاه تست';
+$storeURL   = 'example.net';
+$callback   = 'https://example.ir/callback';
 $amount     = '10000';
 $report     = '123456789';
 
